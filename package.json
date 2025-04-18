@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://thekenapatel.github.io/Count-Project",
+  "homepage": "https://thekenapatel.github.io/click-champ",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
