@@ -16,11 +16,11 @@ A simple counter app built using HTML, CSS, and JavaScript.
 
 ## 📸 Screenshot
 
-![Counter Screenshot](screenshot.png) <!-- Add a screenshot if possible -->
+![count-project](https://github.com/user-attachments/assets/bf61249e-f66e-49c6-81b6-97c9386e873b)
 
 ## 🔗 Live Demo
 
-[Click here to view the live project](https://your-netlify-link.com) <!-- (Replace with actual Netlify/Vercel link if hosted) -->
+[Click here to view the live project](https://your-netlify-link.com) <!-- (count-projectapp.netlify.app) -->
 
 ## 📁 How to Run
 
