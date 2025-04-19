@@ -1,4 +1,4 @@
-# 🧮 React Counter App
+# 🧮 React Counter App 
 
 A simple counter app built using **React** and **Vite** that allows users to increase, decrease, and reset a number.
 
@@ -29,7 +29,7 @@ A simple counter app built using **React** and **Vite** that allows users to inc
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live project](https://count-projectapp.netlify.app)
+👉 [Click here to view the live project](https://thekenapatel.github.io/count-project/)
 
 ---
 
